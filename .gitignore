@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+subtitler.code-workspace
 /.pnp
 .pnp.js
 
